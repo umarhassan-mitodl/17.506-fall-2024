@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "0384c64d-a3da-4f6b-80af-9b500c9d8bfe",
+      "445976c9-ff62-4486-897e-59df9ef2ec37"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ethnic-politics"
+  },
+  "course_title": "Ethnic Politics",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course introduces students to the classic works on ethnic politics, familiarizes them with new research and methodological innovations in the study of ethnic politics, and helps them design and execute original research projects related to ethnic politics. Readings are drawn from across disciplines, including political science, anthropology, sociology, and economics. Students read across the four subfields within political science. Graduate students specializing in any subfield are encouraged to take this subject, regardless of their previous empirical or theoretical background.",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.506",
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments",
+    "Readings"
+  ],
+  "site_uid": "8110abd8-a279-411b-bc53-d655b8a04b5b",
+  "site_short_id": "17.506-fall-2024",
+  "site_url_path": "courses/17-506-ethnic-politics-fall-2024"
+}

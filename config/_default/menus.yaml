@@ -1,0 +1,17 @@
+leftnav:
+- identifier: a46ad4a9-0c05-4b1e-81d2-8a65142c8e09
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus-and-calendar
+  weight: 10
+- identifier: df8f8c77-135d-4c55-a844-b2b61aae724a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: a61e3771-47ac-44ea-9989-7e93ddaf5766
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 1634d53c-27c3-45b6-8601-c18ccba5c0c4
+  name: 'Suggested Books For Book Reviews And Final Projects '
+  pageRef: /pages/suggested-books-for-book-reviews-and-final-projects
+  weight: 40
