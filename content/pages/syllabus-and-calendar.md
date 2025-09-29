@@ -12,7 +12,7 @@ Seminars: 1 session / week, 2 hours / session
 
 ## Course Enrollment
 
-This seminar is designed for students who are enrolled in MIT's {{% resource_link "bbb98a77-8f21-4f33-8a84-98f19cf55854" "Political Science PhD Program" %}}. We reserve the right to approve other students.
+This seminar is designed for students who are enrolled in MIT's [Political Science PhD Program](https://polisci.mit.edu/graduate/phd). We reserve the right to approve other students.
 
 ## Course Description
 
