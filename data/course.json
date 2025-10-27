@@ -33,7 +33,7 @@
     "website": "ethnic-politics"
   },
   "course_title": "Ethnic Politics",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course introduces students to the classic works on ethnic politics, familiarizes them with new research and methodological innovations in the study of ethnic politics, and helps them design and execute original research projects related to ethnic politics. Readings are drawn from across disciplines, including political science, anthropology, sociology, and economics. Students read across the four subfields within political science. Graduate students specializing in any subfield are encouraged to take this subject, regardless of their previous empirical or theoretical background.",
   "department_numbers": [
@@ -41,7 +41,6 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "17.506",
-  "hide_download_original": false,
   "learning_resource_types": [
     "Activity Assignments",
     "Written Assignments",
